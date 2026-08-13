@@ -4,7 +4,7 @@
 
 A simple live Instagram follower counter for Windows.
 
-No account. No Instagram login. No API key.  
+No sign-up. No Instagram login required. No API key.
 Enter a public Instagram username, press **START**, and watch the number move.
 
 ## v1
@@ -19,8 +19,8 @@ Enter a public Instagram username, press **START**, and watch the number move.
 - Dark / Light mode
 - Fullscreen mode
 - Direct link to the tracked Instagram profile
-- No Instagram login or password required
-- Hidden automation browser
+- No Instagram login required
+- Runs locally on your Windows PC
 - No console window in the Windows release
 - Single-instance Windows app
 
